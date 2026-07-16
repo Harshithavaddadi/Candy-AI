@@ -58,12 +58,6 @@ http://localhost:3000
 
 ---
 
-## 📸 Screenshots
-
-Add project screenshots here.
-
----
-
 ## 🌟 Future Improvements
 
 - Voice assistant integration
